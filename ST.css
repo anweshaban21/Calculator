@@ -1,0 +1,21 @@
+#title{
+    font-style:italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration-color: blueviolet;
+}
+.button{
+    padding: 15px;
+    color: royalblue;
+    margin: 5px;
+    border-radius: 9px;
+}
+div{
+    text-align: center;
+}
+.input{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 0.5px;
+    border-color: blue;
+}
